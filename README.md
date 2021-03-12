@@ -49,11 +49,6 @@
         <img src='/images/social/telegram.svg' height='40px' width='40px' title="Telegram"/>
       </a>
     </td>
-     <td>
-      <a href='skype:damichixl'>
-        <img src='/images/social/skype.svg' height='40px' width='40px' title="Skype"/>
-      </a>
-    </td>
     <td>
       <a href='https://twitter.com/MaxSlyusarchuk'>
         <img src='/images/social/twitter.svg' height='40px' width='40px' title="Twitter"/>
@@ -66,6 +61,7 @@
     </td> 
   </tr>
 </table>
+
 <!---![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,base64)-->
 
 
