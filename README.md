@@ -1,42 +1,7 @@
 # Hello there, I'm Maksym Sliusarchuk 👋
 
-## 😎 Skills & endorsements
+Hello! I am a Full-stack developer with 5 years of work experience. My expertise includes developing web applications based on Laravel and Vue.js. I have experience using other PHP and JavaScript frameworks such as React and Node.js. My skills include database design and development, user interface development, product testing, and implementation. I always follow the latest technologies and am ready to expand my knowledge. I am looking for an opportunity to join a team developing innovative products using Laravel and Vue.js
 
-### Tools & Technologies
+# Some statistic
 
-|             |           |             |               |
-| ----------- | --------- | ----------- | ------------- |
-| HTML        | Joomla    | MySQL       | Node.js       |
-| JavaScript  | Laravel   | MS SQL      | Xamarin Forms |
-| jQuery      | Yii2      | PostgreSQL  | ASP.NET       |
-| CSS         | Angular   | C#          | WPF           |
-| PHP         | Vue.js    | WordPress   | Git           |
-
-### Industry Knowledge 
-
-- 🤖 Chatbots
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damichixl&layout=compact&show_icons=true&count_private=true&hide_title=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damichixl&theme=merko&layout=compact&langs_count=6&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 How to reach me
-
-<a href='https://www.facebook.com/max.slyusarchuk'>
-  <img src='/images/social/facebook.svg' height='40px' width='40px' title="Facebook" style='margin:5px'/>
-</a>
-
-<a href='https://www.instagram.com/maxslyusarchuk/'>
-  <img src='/images/social/instagram.svg' height='40px' width='40px' title="Instagram" style='margin:5px'/>
-</a>
-
-<a href='https://www.linkedin.com/in/max-slyusarchuk/'>
-  <img src='/images/social/linkedin.svg' height='40px' width='40px' title="LinkedIn" style='margin:5px'/>
-</a>
-
-<a href='https://t.me/damichixl'>
-  <img src='/images/social/telegram.svg' height='40px' width='40px' title="Telegram" style='margin:5px'/>
-</a>
-
-<a href='https://twitter.com/MaxSlyusarchuk'>
-  <img src='/images/social/twitter.svg' height='40px' width='40px' title="Twitter"/>
-</a>
+<img src="https://myreadme.vercel.app/api/embed/damichixl?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="100%"/>
